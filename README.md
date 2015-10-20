@@ -4,6 +4,8 @@ Samples from multi-paradigm programming using f# and .net book
 ![F# In persian language]({{site.baseurl}}/Fsharp%20Book.png)
 
 [Fsharp Learning](http://fsharp.org/about/learning.html)
+[Naghoos Publication](http://www.naghoospress.ir/bookview.aspx?bookid=1486730)
+[Ali Baghernejad](http://www.baghernejad.ir)
 
 ## Chapter1: Introduction to F# 
 - F# History 
