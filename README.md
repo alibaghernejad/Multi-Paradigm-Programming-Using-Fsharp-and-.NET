@@ -1,4 +1,4 @@
-# Multi-Paradigm-Programming-Using-Fsharp-and-.NET
+# Multi-Paradigm Programming Using Fsharp and .NET
 Samples from multi-paradigm programming using f# and .net book
 
 ![F# In persian language]({{site.baseurl}}/Fsharp%20Book.png)
