@@ -14,12 +14,12 @@ Samples from multi-paradigm programming using f# and .net book
 - F# Advantages
 - ...
 
-## Chapter2: Get Statring With F#  
+## Chapter2: Get Starting With F#  
 - Installation!
 - Interactive Environment
 - ...
 
-## Chapter3: F# Fundementals  
+## Chapter3: F# Fundamentals  
 - Values
 - Primitive Types
 - Functions
@@ -27,7 +27,7 @@ Samples from multi-paradigm programming using f# and .net book
 - Generic
 - ...
 
-## Chapter4: Advance Types
+## Chapter4: Advance Data Types
 - Lists
 - Tuples
 - Enums
@@ -37,7 +37,7 @@ Samples from multi-paradigm programming using f# and .net book
 
 ## Chapter5: Functional Programming (FP)
 - Expressions
-- Imutability
+- Immutability
 - Function Values
 - Pattern  Matching
 - Piping
